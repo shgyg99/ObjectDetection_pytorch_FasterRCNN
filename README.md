@@ -7,8 +7,7 @@ Hi! I have read here eveything you need😉
 ## How I collected and labeled images
 
 - At first I have collected images with __DownloadAllImages__ extension 
-![allimage](https://i.postimg.cc/XNgsKCbr/Screenshot-2024-07-22-090544.png)
-
+[![Screenshot-2024-07-22-090544.png](https://i.postimg.cc/Wb7yrmVZ/Screenshot-2024-07-22-090544.png)](https://postimg.cc/ykknCZk6)
 
 ---
 #
@@ -23,23 +22,19 @@ Hi! I have read here eveything you need😉
 
 here is the help 👇
 
-![help](https://i.postimg.cc/g2MJ34Mg/gif.gif)
-
+[![gif.gif](https://i.postimg.cc/Pq79JtjF/gif.gif)](https://postimg.cc/Z9rVDz0r)
 ___
 
 #### And you can see the results 👇
 
-![result](https://i.postimg.cc/wxPQQcrT/0.png)
+[![0.png](https://i.postimg.cc/zDhZLR3w/0.png)](https://postimg.cc/s130qxY1)
 
----
-![result2](https://i.postimg.cc/44hBMSVh/2.png)
+[![2.png](https://i.postimg.cc/HxcG9rzg/2.png)](https://postimg.cc/7GkQxYjs)
 
----
 #
 #### And in the end, we find that Biden is more like Trump than Trump😂✋
 (just check the scores👇😂)
 
-![result3](https://i.postimg.cc/R0BB6tmg/5.png)
----
+[![5.png](https://i.postimg.cc/R0BB6tmg/5.png)](https://postimg.cc/87t3xjjv)---
 #
 ## Thanks for your time🥰🌹
